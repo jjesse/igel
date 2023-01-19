@@ -1,4 +1,4 @@
-# Forescout eyeExtend Connect for Google Chromebook README.md
+# Forescout eyeExtend Connect for IGEL README.md
  
 ## Contact Information
 
