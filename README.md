@@ -1,4 +1,4 @@
-# Forescout eyeExtend Connect for IGEL README.md
+# Forescout eyeExtend Connect for IGEL 
  
 ## Contact Information
 
